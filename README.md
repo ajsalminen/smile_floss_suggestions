@@ -6,3 +6,6 @@ The document foundation
 
 ## Humble bundle
 Free Software Foundation
+
+## Open source patreons
+https://smcameron.github.io/space-nerds-in-space/
