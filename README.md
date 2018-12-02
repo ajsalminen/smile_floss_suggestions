@@ -9,3 +9,5 @@ Free Software Foundation
 
 ## Open source patreons
 https://smcameron.github.io/space-nerds-in-space/
+https://www.patreon.com/bcachefs - The BcacheFS file system.
+https://www.patreon.com/joeyh - Joey Hess
