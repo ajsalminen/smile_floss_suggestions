@@ -8,6 +8,6 @@ The document foundation
 Free Software Foundation
 
 ## Open source patreons
-https://smcameron.github.io/space-nerds-in-space/
+https://smcameron.github.io/space-nerds-in-space/ - Space game.
 https://www.patreon.com/bcachefs - The BcacheFS file system.
 https://www.patreon.com/joeyh - Joey Hess
